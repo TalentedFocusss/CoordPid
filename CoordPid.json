@@ -1,0 +1,19 @@
+{
+  "fileName": "CoordPid.json",
+  "name": "CoordPid",
+  "version": "1.0.0",
+  "uuid": "e4567890-1234-abcd-efgh-1234567890ab",
+  "mavenUrls": [
+    "https://jitpack.io"
+  ],
+  "jsonUrl": "https://raw.githubusercontent.com/TalentedFocusss/CoordPid/master/CoordPid.json",
+  "javaDependencies": [
+    {
+      "groupId": "com.github.TalentedFocusss",
+      "artifactId": "CoordPid",
+      "version": "1.0.0"
+    }
+  ],
+  "jniDependencies": [],
+  "cppDependencies": []
+}
